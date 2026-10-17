@@ -56,3 +56,8 @@ Provider interfaces and free-plan limits can change. Never upload private data, 
 ## Before accepting real submissions
 
 Create a clear editorial policy, contributor consent process, correction/retraction procedure, privacy notice and safeguarding process appropriate for a project involving minors. Don't describe the process as formal peer review unless it actually meets that standard.
+
+
+## Sign-in modal
+
+The navigation now includes a sign-in modal. To enable real accounts, follow `SETUP.md` and configure `supabase-config.js`. The modal is only a front end until a Supabase project is configured.
